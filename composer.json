@@ -1,0 +1,26 @@
+{
+    "name": "programster/harvest-sdk-guzzle-driver",
+    "type": "sdk",
+    "description": "A Guzzle-based message handler for the PHP SDK for the Harvest API.",
+    "keywords": ["Harvest", "SDK", "Guzzle"],
+    "homepage": "https://github.com/programster/package-harvest-sdk-guzzle-driver",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stuart Page (Programster)",
+            "email": "sdpagent@gmail.com",
+            "homepage": "https://blog.programster.org/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0",
+        "guzzlehttp/guzzle": "^7.3",
+        "programster/harvest-sdk": "dev-main"
+    },
+    "autoload": {
+        "psr-4": {
+            "Programster\\HarvestGuzzleDriver\\": "src/"
+        }
+    }
+}
