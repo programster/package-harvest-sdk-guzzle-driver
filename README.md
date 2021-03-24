@@ -1,5 +1,5 @@
 # Harvest SDK Guzzle Driver
-A Guzzle-based driver for the harvest SDK.
+A Guzzle-based driver for the [Harvest SDK](https://github.com/programster/package-harvest-sdk).
 
 
 ## Installation
