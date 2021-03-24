@@ -1,2 +1,2 @@
-# package-harvest-sdk-guzzle-driver
+# Harvest SDK Guzzle Driver
 A Guzzle-based driver for the harvest SDK
